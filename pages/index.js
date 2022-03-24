@@ -19,10 +19,9 @@ export default function Home() {
 <Header/>
     <Nav/>
     <Hero/>
-    <div className='mt-96'>
-    <CandleGrid/>
-    </div>
-    <Footer/>
+  
+   <CandleGrid/>
+   <Footer/>
     </div>
   )
 }
