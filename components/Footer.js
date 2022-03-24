@@ -22,7 +22,7 @@ function Footer() {
     </div>
     
     </div>
-    <div className='flex justify-center md:justify-center lg:justify-center mt-20 md:mt-0 lg:mt-0'>
+    <div className='flex justify-center md:justify-center lg:justify-center mt-20 md:mt-0 lg:mt-16'>
     
     <Image className='rounded-full' src="/momo.png" width="100" height="100"  />
     
